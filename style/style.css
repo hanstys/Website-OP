@@ -133,6 +133,15 @@ h1{
 
 }
 
+.buy{
+
+  padding: 5px;
+  border-radius: 10px;
+  background-color: yellow;
+  border: grey solid;
+  float: right;
+}
+
 .shop h1{
   font-size: 30px;
   text-align: center;
