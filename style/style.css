@@ -24,6 +24,10 @@ body
 
   color: #FFF;}
 
+.link{
+  color:yellow;
+}
+
 p
 { padding: 0 0 20px 0;
   line-height: 1.7em;
